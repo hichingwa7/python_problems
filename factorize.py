@@ -10,5 +10,7 @@
 
 # [0,1,2,3,4,5,6,7,8,9,10]
 
+divisor = 4
+
 for number in range (0,11) :
-    print(str(number) + " %" + " 3" + " = " + str(number % 3))
+    print(str(number) + " % " + str(divisor) + " = " + str(number % divisor))
