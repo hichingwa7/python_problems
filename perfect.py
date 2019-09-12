@@ -3,10 +3,13 @@
 # programming language: Python
 # description: program that calculates three-digit perfect number
 
+#############################################################################
+#input is passed via the command line as one argument
+
 import sys
 
 if len(sys.argv) != 2:
-    print("RuntimeError: pass one integer as the only argument")
+    print("Error: pass one integer as the only argument")
     sys.exit()
     
 arg_number = int(sys.argv[1])
