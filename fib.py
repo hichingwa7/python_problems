@@ -3,9 +3,10 @@
 # programming language: Python
 # description: program that finds fibonacci number without using recursion
 
-import sys
+##########################################################################
+#input is passed via the command line as one argument
 
-#argv = n;
+import sys
 
 if len(sys.argv) != 2:
     print("RuntimeError: pass one integer as the only argument")
