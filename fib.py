@@ -9,7 +9,7 @@
 import sys
 
 if len(sys.argv) != 2:
-    print("RuntimeError: pass one integer as the only argument")
+    print("Error: pass one integer as the only argument")
     sys.exit()
 
 arg_number = int(sys.argv[1])
