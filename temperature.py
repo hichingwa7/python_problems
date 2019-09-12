@@ -1,6 +1,6 @@
 # date: 09/11/2019
 # developer: Humphrey Shikoli
-# programming Language: Python
+# programming language: Python
 # description: program that converts from F to C with F ranging from 0 to 300 in steps of 20 degrees
 
 step_up = 20
