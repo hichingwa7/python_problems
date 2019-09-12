@@ -1,6 +1,6 @@
 # date: 09/11/2019
 # developer: Humphrey Shikoli
-# drogramming Language: Python
+# programming language: Python
 # description: program that prints multiples of 5, 7 or 13 between 0 and 101
 
 factor5 = 5
