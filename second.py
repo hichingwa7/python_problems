@@ -21,8 +21,8 @@ count = 0
 
 # write into a new textfile, "trimmed.txt", following the if conditions specified
 # The "ord()" function accepts a string of length one and returns its unicode point
-# representation and if that value is in the "orders" list, it is checked if it is
-# divisible by two and ignored, else the value is added in the "b" string variable
+# representation and if that value is in the "orders" list, it is checked if it is 
+# not divisible by two and ignored, else the value is added in the "b" string variable
 
 with open ("trimmed.txt", "w") as newstr:
     for i in givenstr:
