@@ -1,4 +1,5 @@
 # date: 09/11/2019
+# date: 09/11/2019
 # developer: Humphrey Shikoli
 # programming language: Python
 # description: program that calculates three-digit perfect number
@@ -32,7 +33,7 @@ elif arg_number > lower_bound and arg_number < upper_bound or arg_number == uppe
     isitperfect = sum(divisor)
     
     if isitperfect == arg_number:
-        print(divisor, sep = '+', end = "")
+        print(*divisor, sep = '+', end = "")
         print(" = " + str(isitperfect))    
     else:
         print("The 3-digit number entered is not a perfect number")
