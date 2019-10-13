@@ -1,0 +1,1430 @@
+{
+    "now": {
+        "Count": 4,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "i'm": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "a": {
+        "Count": 12,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "scrubber,": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "runner": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "and": {
+        "Count": 10,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "breaker": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "too\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "i": {
+        "Count": 13,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "live": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "on": {
+        "Count": 4,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "damper": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "wallaby": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "stew\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "i've": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "got": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "big": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "cattle": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "dog": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "with": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "staghound": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "cross\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "never": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "saw": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "the": {
+        "Count": 35,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "scrubber": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "we": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "couldn't": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "toss\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "'cause": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "fella": {
+        "Count": 5,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "from": {
+        "Count": 4,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "cunnamulla\n": {
+        "Count": 3,
+        "Songs": []
+    },
+    "yes": {
+        "Count": 6,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "cunnamulla": {
+        "Count": 5,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "fella\n": {
+        "Count": 7,
+        "Songs": []
+    },
+    "\n": {
+        "Count": 12,
+        "Songs": []
+    },
+    "once": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "when": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "was": {
+        "Count": 6,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "drovin'": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "trails\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "met": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "little": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "girl": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "her": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "name": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "ada": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "vale\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "said": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "\"marry": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "me": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "i'll": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "be": {
+        "Count": 4,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "we'll": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "settle": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "down": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "in": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "augathella\"\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "at": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "augathella\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "augathella": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "oh,": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "she": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "daddy's": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "charley": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "ville\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "had": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "lot": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "of": {
+        "Count": 4,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "kiddies": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "bills\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "so": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "grabbed": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "my": {
+        "Count": 5,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "horse": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "that": {
+        "Count": 4,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "nice": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "handy\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "stopped": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "till": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "reached": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "dirranbandi\n": {
+        "Count": 2,
+        "Songs": []
+    },
+    "dandy": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "dirranbandi": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "dandy\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "moleskin": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "trousers": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "williams": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "boots\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "aboard": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "an": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "outlaw": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "as": {
+        "Count": 3,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "he": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "leaves": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "chutes\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "goose": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "neck": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "spurs": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "rake": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "their": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "fiery": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "hide\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "girls": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "all": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "shouting": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "around": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "ringside\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "oh": {
+        "Count": 2,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "he's": {
+        "Count": 7,
+        "Songs": [
+            "cunnamulla_fella.txt",
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "yeah": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "done": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "fightin'": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "western": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "bars\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "lovin'": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "neath": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "moon": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "stars\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "wear": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "bright": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "clothes": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "shirts": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "full": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "colour\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "know": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "certain": {
+        "Count": 1,
+        "Songs": [
+            "cunnamulla_fella.txt"
+        ]
+    },
+    "curse": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "things": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "go": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "wrong": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "through": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "day\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "vow": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "snatch": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "it,": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "far": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "away\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "but": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "day": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "is": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "we're": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "soon": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "feeling": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "well\n": {
+        "Count": 2,
+        "Songs": []
+    },
+    "laughter": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "rings": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "out": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "three": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "rivers": {
+        "Count": 6,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "hotel\n": {
+        "Count": 5,
+        "Songs": []
+    },
+    "there's": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "wesley": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "barman": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "young": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "irish": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "joe\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "serving": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "booze": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "collecting": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "dough\n": {
+        "Count": 2,
+        "Songs": []
+    },
+    "what": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "stir": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "they": {
+        "Count": 5,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "would": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "cause": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "if": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "ever": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "should": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "tell\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "secrets": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "they've": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "learned": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "night": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "after": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "payday": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "fun": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "romance\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "it's": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "for": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "fam'lies": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "to": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "sing": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "dance\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "you": {
+        "Count": 3,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "can": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "let": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "your": {
+        "Count": 3,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "hair": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "come": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "shell\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "do": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "own": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "thing": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "listen": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "bosses": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "night's": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "gettin'": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "late\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "progress": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "they're": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "makin'": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "best": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "state\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "they'd": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "finished": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "this": {
+        "Count": 3,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "line": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "maint'nance": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "worked": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "like": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "bragged": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "think": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "drink": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "we've": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "money": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "back\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "stayers": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "cass": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "old": {
+        "Count": 2,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "grader": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "jack\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "tell": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "coster": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "gives": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "everyone": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "hell\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "gets": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "[spoken:]\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "yeah,": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "whopper\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "job": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "pack": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "up": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "go\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "another": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "construction": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "still": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "chasing": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "wherever": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "wander": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "memory": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "will": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "dwell\n": {
+        "Count": 1,
+        "Songs": []
+    },
+    "those": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "happy": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "days": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    },
+    "hotel": {
+        "Count": 1,
+        "Songs": [
+            "three_rivers_hotel.txt"
+        ]
+    }
+}
