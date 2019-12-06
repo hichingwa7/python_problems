@@ -1,18 +1,19 @@
+# date: 12/5/2019
+# developer: Humphrey Shikoli
+# programming language: Python
+# description: Generate two dimensional data for a perceptron learning algorithm
+
 import numpy
 import matplotlib.pylab as plt
 import pandas as pd
-import sys
-from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
 
 # Number of data points
 N = 200
-
 
 def getRand():
     return numpy.random.uniform(-1,1)
 
 def getY(xVal1, xVal2):
-    
     
     std_dev = 0.2
     
@@ -43,7 +44,6 @@ def plotData(currentData, delay):
     plt.draw()
     plt.pause(delay)
     plt.clf()
-    
     
 def createData():
     

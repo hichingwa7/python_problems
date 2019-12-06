@@ -1,20 +1,16 @@
-# perceptron.py
-# Written by: Wes Cox for IS485/485
-# Oct 31, 2019
-# Starting point for Question 1 of Programming Problem Set #7
-#
-# For a randomly generated set of data, perform the perceptron learning algorithm
-# to correctly classify the points
+# date: 12/5/2019
+# developer: Humphrey Shikoli
+# programming language: Python
+# description: For a randomly generated set of data, perform the perceptron learning algorithm
+# to correctly classify the points for a two dimensional data
 
 import numpy
 import matplotlib.pylab as plt
 import pandas as pd
 import copy
-from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
 
 #    w0    w1  w2
 initial_w = [0.0, 0.0, 0.0]
-
 
 def plotCurrentW(ww, values, delay):
 	# Plot the randomly generated data
@@ -109,22 +105,17 @@ def regression(data):
 		if iteration % 10 == 0:
 			plotCurrentW(w, data, 0.0001)	
 
-		
-
 		# new_Ein = totalEin(w, data)
 
 		# if new_Ein < minEin:
 		# 	minEin = new_Ein
 		# 	bestW = copy.deepcopy(w)
 
-
-
 		derivative = [0,0,0]
 
 		for i in range(0, len(data)):
 			h = w[0] + w[1]*data['x1'][i] + w[2]*data['x2'][i]
 			x = [1, data['x1'][i], data['x2'][i]]
-
 
 			dw = [2*elem*(h - data["yp"][i]) for elem in x]
 			derivative[0] += dw[0]
@@ -139,10 +130,7 @@ def regression(data):
 		w[1] = w[1] - learning_rate*derivative[1]
 		w[2] = w[2] - learning_rate*derivative[2]
 
-
-
 		iteration += 1
-
 
 	# return bestW # Return the predicting weights
 	return w
