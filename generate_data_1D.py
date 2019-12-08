@@ -6,6 +6,7 @@
 import numpy
 import matplotlib.pylab as plt
 import pandas as pd
+from mpl_toolkits.mplot3d import Axes3D
 
 # Number of data points
 N = 200

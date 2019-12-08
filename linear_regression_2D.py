@@ -8,6 +8,7 @@ import numpy
 import matplotlib.pylab as plt
 import pandas as pd
 import copy
+from mpl_toolkits.mplot3d import Axes3D
 
 #    w0    w1  w2
 initial_w = [0.0, 0.0, 0.0]
